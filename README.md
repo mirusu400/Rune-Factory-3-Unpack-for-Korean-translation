@@ -17,7 +17,7 @@ Thanks to CUE for supporting `rf3Pack`
 그 외에는 번역에 미필요한 파일들입니다.
 
 # 빌드 방법
-1. 먼저 `[Tinke](https://github.com/pleonex/tinke)`등의 프로그램으로 룬팩토리 3 파일을 연다
+1. 먼저 [Tinke](https://github.com/pleonex/tinke)등의 프로그램으로 룬팩토리 3 파일을 연다
 2. res\obj\rf3Archive.arc 파일을 찾아 `build.bat`파일과 동일한 경로에 놔둔 후, 이름을 `rf3Archive_Original.arc`로 바꾼다
 3. 각종 수정된 텍스트, 폰트들을 `rf3Archive_Modified` 에 넣는다
 4. `build.bat`을 실행해 rf3Archive.arc 파일을 만든다.
